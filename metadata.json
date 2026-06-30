@@ -1,0 +1,6 @@
+{
+  "name": "FinSight FP&A",
+  "description": "Financial Reporting and Cash Flow Forecasting Platform with interactive statements, waterfall charts, statistical forecasting, and Gemini AI strategic business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
