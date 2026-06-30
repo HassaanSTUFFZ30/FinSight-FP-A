@@ -114,23 +114,4 @@ To run **FinSight FP&A** locally:
 
 ---
 
-## 🎯 Executive Outreach Template (LinkedIn / Email)
 
-When sharing this project with a CEO or Senior Executive, use this concise, business-first script:
-
-> *"Hi [Name],*
->
-> *I recently engineered **FinSight FP&A**, a modern financial planning and strategic liquidity platform designed to solve a critical executive challenge: **the slow, error-prone cycle of manual Excel forecasting.***
->
-> *Here is how it drives business value:*
-> 1. ***Dynamic Scenario Stress-Testing***: Allows leadership to run instant cash runway simulations under severe revenue contractions or working capital delays.
-> 2. ***Interactive Cash Bridges***: Deconstructs raw cash changes with dynamic Waterfall visualizations, perfect for executive or board-level presentations.
-> 3. ***Structured Automated Recalculations***: Drag and drop a raw accounting ledger file (`.xlsx`) to instantly map and recalculate complete GAAP-compliant statement models.
-> 4. ***Intelligent Narrative Insights***: Translates complex statement variables into direct, high-level operational recommendations regarding working capital and margin health.
->
-> *The system is designed as a secure, full-stack application (React, TypeScript, and Node/Express) built with a secure server-side proxy gateway to protect proprietary data.*
->
-> *Demo: [https://rebrand.ly/6ccqnaa]*  
-> *Repository: [https://github.com/HassaanSTUFFZ30/FinSight-FP-A]*
->
-> *I’d love to hear your thoughts on how your team currently manages rolling forecast scenarios!"*
